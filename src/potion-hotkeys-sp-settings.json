@@ -1,0 +1,245 @@
+{
+    "doublePressThreshold": 0.3,
+    "longPressThreshold": 1.0,
+    "hotkeys": [
+        {
+            "effectName": "Health",
+            "precedence": "Max",
+            "key": 2,
+            "mode": "Double"
+        },
+        {
+            "effectName": "Stamina",
+            "precedence": "Max",
+            "key": 3,
+            "mode": "Double"
+        },
+        {
+            "effectName": "Magicka",
+            "precedence": "Max",
+            "key": 4,
+            "mode": "Double"
+        },
+        {
+            "effectName": "Etherealize",
+            "precedence": "Max",
+            "key": 5,
+            "mode": "Double"
+        },
+        {
+            "effectName": "Cure Poison",
+            "precedence": "Max",
+            "key": 6,
+            "mode": "Double"
+        },
+        {
+            "effectName": "Speed",
+            "precedence": "Max",
+            "key": 7,
+            "mode": "Double"
+        },
+
+        {
+            "effectName": "Health",
+            "precedence": "Min",
+            "key": 2,
+            "mode": "Single"
+        },
+        {
+            "effectName": "Stamina",
+            "precedence": "Min",
+            "key": 3,
+            "mode": "Single"
+        },
+        {
+            "effectName": "Magicka",
+            "precedence": "Min",
+            "key": 4,
+            "mode": "Single"
+        },
+        {
+            "effectName": "Damage Health",
+            "precedence": "Max",
+            "key": 5,
+            "mode": "Single"
+        },
+        {
+            "effectName": "Damage Undead",
+            "precedence": "Max",
+            "key": 6,
+            "mode": "Single"
+        },
+        {
+            "effectName": "Silence",
+            "precedence": "Max",
+            "key": 7,
+            "mode": "Single"
+        },
+
+        {
+            "effectName": "Resist Fire",
+            "precedence": "Max",
+            "key": 2,
+            "mode": "Long"
+        },
+        {
+            "effectName": "Resist Frost",
+            "precedence": "Max",
+            "key": 3,
+            "mode": "Long"
+        },
+        {
+            "effectName": "Resist Shock",
+            "precedence": "Max",
+            "key": 4,
+            "mode": "Long"
+        },
+        {
+            "effectName": "Resist Magic",
+            "precedence": "Max",
+            "key": 5,
+            "mode": "Long"
+        },
+        {
+            "effectName": "Resist Poison",
+            "precedence": "Max",
+            "key": 6,
+            "mode": "Long"
+        },
+        {
+            "effectName": "Invisibility",
+            "precedence": "Max",
+            "key": 7,
+            "mode": "Long"
+        },
+
+        {
+            "effectName": "Health Regeneration",
+            "precedence": "Max",
+            "key": 2,
+            "mode": "Double",
+            "modifier": 42
+        },
+        {
+            "effectName": "Stamina Regeneration",
+            "precedence": "Max",
+            "key": 3,
+            "mode": "Double",
+            "modifier": 42
+        },
+        {
+            "effectName": "Magicka Regeneration",
+            "precedence": "Max",
+            "key": 4,
+            "mode": "Double",
+            "modifier": 42
+        },
+        {
+            "effectName": "Frost Aversion",
+            "precedence": "Max",
+            "key": 5,
+            "mode": "Double",
+            "modifier": 42
+        },
+        {
+            "effectName": "Poison Aversion",
+            "precedence": "Max",
+            "key": 6,
+            "mode": "Double",
+            "modifier": 42
+        },
+        {
+            "effectName": "Paralyze",
+            "precedence": "Max",
+            "key": 7,
+            "mode": "Double",
+            "modifier": 42
+        },
+
+        {
+            "effectName": "Health Fortification",
+            "precedence": "Max",
+            "key": 2,
+            "mode": "Single",
+            "modifier": 42
+        },
+        {
+            "effectName": "Stamina Fortification",
+            "precedence": "Max",
+            "key": 3,
+            "mode": "Single",
+            "modifier": 42
+        },
+        {
+            "effectName": "Magicka Fortification",
+            "precedence": "Max",
+            "key": 4,
+            "mode": "Single",
+            "modifier": 42
+        },
+        {
+            "effectName": "Drain Strength",
+            "precedence": "Max",
+            "key": 5,
+            "mode": "Single",
+            "modifier": 42
+        },
+        {
+            "effectName": "Drain Intelligence",
+            "precedence": "Max",
+            "key": 6,
+            "mode": "Single",
+            "modifier": 42
+        },
+        {
+            "effectName": "Fatigue",
+            "precedence": "Max",
+            "key": 7,
+            "mode": "Single",
+            "modifier": 42
+        },
+
+        {
+            "effectName": "Fortify Two-handed",
+            "precedence": "Max",
+            "key": 2,
+            "mode": "Long",
+            "modifier": 42
+        },
+        {
+            "effectName": "Fortify Heavy Armor",
+            "precedence": "Max",
+            "key": 3,
+            "mode": "Long",
+            "modifier": 42
+        },
+        {
+            "effectName": "Fortify Destruction",
+            "precedence": "Max",
+            "key": 4,
+            "mode": "Long",
+            "modifier": 42
+        },
+        {
+            "effectName": "Fortify Restoration",
+            "precedence": "Max",
+            "key": 5,
+            "mode": "Long",
+            "modifier": 42
+        },
+        {
+            "effectName": "Night Eye",
+            "precedence": "Max",
+            "key": 6,
+            "mode": "Long",
+            "modifier": 42
+        },
+        {
+            "effectName": "Detect Life",
+            "precedence": "Max",
+            "key": 7,
+            "mode": "Long",
+            "modifier": 42
+        }       
+    ]
+}
